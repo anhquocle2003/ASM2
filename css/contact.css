@@ -1,0 +1,48 @@
+.content-section {
+  margin-top: 80px;
+  padding: 0 170px;
+}
+
+.section-heading,
+.section-sub-heading {
+  text-align: center;
+}
+/* Contact-sub */
+.contact-sub {
+  margin-top: 230px;
+  padding: 0 136px;
+}
+.contact-img > img {
+  padding-right: 25px;
+  float: left;
+  width: 920px;
+  max-width: 100%;
+}
+.contact-right{
+  float: left;
+  padding: 50px;
+  background-color: rgba(0
+  ,0, 0, 0.1);
+  height: 821px;
+}
+.heading-sub-contact{
+  font-size: 18px;
+  font-weight: 500;
+  padding-bottom: 16px;
+}
+.sub-heading-contact{
+  padding-bottom: 8px;
+  font-size: 16px;
+}
+.info-list{
+  font-style: italic;
+  line-height: 1.4;
+}
+.info-list>a{
+color: black;
+
+}
+.footer{
+  margin-top: 1090px;
+}
+

@@ -1,0 +1,68 @@
+.shop-band{
+}
+.shop-band {
+  margin-top: 46px;
+  padding: 0 100px;
+}
+.shop-heading {
+  padding: 15px;
+  font-size: 20px;
+}
+.goods {
+  margin-top: 10px;
+  display: flex;
+  /* float: left; */
+  flex-wrap: wrap;
+  
+}
+.good{
+  margin: auto;
+    padding-right: 30px;
+    
+}
+.good > img {
+  margin-left: 35px;
+  max-width: 300px;
+
+}
+
+.good > img:hover{
+  transform: scale(1.1);
+}
+
+.info-good > h3 {
+  padding-top: 12px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.info-good {
+  border-radius: 15px ;
+  text-align: center;
+  background-color: rgb(146, 138, 138);
+}
+
+.price-new {
+  padding-left: 10px;
+  color: yellow;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.price-old {
+  text-decoration: line-through;
+  font-size: 15px;
+}
+.btn-good {
+  margin: 12px 50px;
+  padding: 10px;
+  background-color: rgb(192, 192, 48);
+}
+
+
+.Youtube,.logofooter{
+  margin-top: -120px;
+}
+
+.footer{
+  margin-top: 15px;
+}

@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* Common */
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  scroll-behavior: smooth; /*Cuộn trang khi bấm*/
+}
+
+.clear {
+  clear: both;
+}
+html {
+  /* background-color: gray; */
+}
+.main{
+  background-image: url(../images/background-main.jpg);
+}
+.b-member {
+  margin-top: 46px;
+  display: inline-block;
+  padding: 0 59px;
+  /* background-color: black; */
+}
+.member-list {
+  float: left;
+  width: 700px;
+  padding: 30px;
+  background-color: white;
+  display: inline-block;
+  background-color: black;
+}
+
+.heading {
+  padding-left: 25px;
+  color: white;
+  margin-bottom: 12px;
+}
+.heading > h1 {
+  font-size: 25px;
+  font-weight: 100;
+}
+.img-bandmember > img {
+  border-radius: 100%;
+}
+.img-bandmember > img:hover {
+  transform: rotate(100deg);
+}
+.sub-heading {
+  color: white;
+  text-align: justify;
+  padding-left: 200px;
+  margin-bottom: -100px;
+}
+.btn-member {
+  padding-left: 200px;
+  margin-top: -50px;
+}
+.btn-member button {
+  padding: 12px;
+  width: 400px;
+}
+.btn-member button:hover {
+  color: white;
+  background-color: gray;
+}
+
+.video-bandmember {
+  display: inline-block;
+  padding: 0 173px;
+}
+.video-ytb {
+  background-color: #010D0E;
+  float: left;
+  /* border: 1px solid black; */
+  padding: 12px;
+}
+.heading-video{
+  color: #fff;
+  text-align: center;
+}

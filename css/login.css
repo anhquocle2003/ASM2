@@ -1,0 +1,70 @@
+body {
+  background-image: url(/TheBand/images/background-main.jpg);
+  font-family: sans-serif;
+  margin-top: 12%;
+}
+
+.login {
+  width: 300px;
+  height: 350px;
+  background-color: rgb(226, 217, 217);
+  border: 1px solid rgb(117, 109, 109);
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+  box-shadow: 5px 5px 5px  black;
+}
+
+.login h2 {
+  display: inline-block;
+}
+
+.login input {
+  padding-left: 20px;
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.check input {
+  width: 10px;
+  height: 10px;
+}
+.check {
+  float: left;
+  padding-left: 40px;
+}
+
+.login button a {
+  font-size: 18px;
+  color: azure;
+  width: 110px;
+  height: 40px;
+
+}
+
+.login button{
+  
+  width: 220px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: rgb(48, 78, 78);
+}
+
+
+p {
+  float: left;
+  display: inline-block;
+  padding-left: 40px;
+  margin: 0px;
+}
+
+.login a {
+  float: right;
+  padding-right: 40px;
+  text-decoration: none;
+  margin-top: 10px;
+}

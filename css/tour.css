@@ -1,0 +1,13 @@
+
+.tour-section{
+    display: inline-block;
+    padding: 0 200px;
+    margin-top: 46px;
+}
+.section-heading {
+    text-align: center;
+    padding-top: 30px;
+}
+.section-sub-heading{
+    text-align: center;
+}
