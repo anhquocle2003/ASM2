@@ -233,7 +233,7 @@ html {
   font-style: 15px;
   margin-top: 25px;
   font-style: italic;
-  opacity: 0.6; /*Độ trong suốt*/
+  opacity: 0.6; 
 }
 .content .section-heading,
 .content .section-sub-heading {
@@ -242,20 +242,11 @@ html {
 .content .about-text {
   margin-top: 25px;
   font-style: 15px;
-  text-align: justify; /*căn đều hai đầu của dòng chữ*/
-  line-height: 1.4; /*độ cách nhau giữa các dòng -Chữ ENG-1.4 -Chữ VIE 1.6*/
+  text-align: justify;
 }
 .content .member-list {
   margin-top: 48px;
 }
-
-/*.content .member-item {
-  text-align: center;
-
-   float: left;
-  width: calc(100% / 3); Chia hình hoặc tự chia 33.3333% 
-}
-  */
 
 .content .member-name {
   font-style: 15px;
@@ -305,17 +296,11 @@ html {
 /* Places */
 
 .places-list {
-  /*Viết gộp: margin: 32px -8px 0px*/
   margin-top: 32px;
 
   padding-bottom: 48px;
 }
-/*Đã có ở trên column-third 
-.place-item {
-  
-  width: calc(100% / 3);
-  
-} */
+
 .place-img:hover {
   opacity: 0.6;
 }
